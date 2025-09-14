@@ -6,8 +6,8 @@ This project focuses on **recognizing handwritten characters written in the air*
 The model can recognize:  
 * **Digits (0–9)**
 * **Uppercase Letters (A–Z)**  
-* **Lowercase Letters (_a–_z)**  
-
+* **Lowercase Letters (_a–_z)**
+  
 This work combines **computer vision** and **deep learning** to explore a natural human–computer interaction method.  
 
 ---
@@ -88,7 +88,7 @@ The model was evaluated using:
 
 ### 1. Dataset Creation  
 Run `dataset creation.ipynb` to generate and augment the dataset.  
-
+<img src="https://github.com/Sayanb087/my_collage_project/blob/main/sample_7.jpg" alt="omnicron_image" width="300" style="margin-right: 20px;">
 ### 2. Model Training  
 Open `group_33_final_project.ipynb` and run all cells to:  
 * Load dataset  
@@ -97,6 +97,8 @@ Open `group_33_final_project.ipynb` and run all cells to:
 
 ### 3. Inference  
 Use the trained model for recognizing new air-writing gestures.  
+<img src="https://github.com/Sayanb087/my_collage_project/blob/main/lowercase.png" alt="omnicron_image" width="300" style="margin-right: 20px;">
+
 
 ---
 
